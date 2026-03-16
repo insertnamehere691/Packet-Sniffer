@@ -17,7 +17,7 @@ The script utilizes a custom callback function to process each captured packet. 
 ## 📊 Project in Action
 Below is a capture of the sniffer identifying unencrypted traffic while browsing an insecure site in a lab environment:
 
-![Packet Sniffer Alert](path/to/your/Screenshot_2026-03-16_181632.png)
+![Packet Sniffer Alert](sniffer_alert.png)
 *Figure 1: The sniffer successfully identifies Protocol 6 (TCP) and flags a Port 80 risk.*
 
 Usage
